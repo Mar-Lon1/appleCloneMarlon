@@ -1,0 +1,437 @@
+                                                                                                                                                                  /* Phone Screen */
+                                                                                                                                                                  
+                                                                                                                                                                  @media (max-width: 400px) {
+                                                                                                                                                                      body {
+                                                                                                                                                                          min-height: 359px;
+                                                                                                                                                                          overflow-x: hidden;
+                                                                                                                                                                      }
+                                                                                                                                                                      img {
+                                                                                                                                                                          max-width: 300px;
+                                                                                                                                                                          max-height: fit-content;
+                                                                                                                                                                      }
+                                                                                                                                                                      article {
+                                                                                                                                                                          text-align: center;
+                                                                                                                                                                          padding-left: 10px;
+                                                                                                                                                                          padding-right: 10px;
+                                                                                                                                                                          text-align: center;
+                                                                                                                                                                          background-color: black;
+                                                                                                                                                                      }
+                                                                                                                                                                      .navbar-mobile {
+                                                                                                                                                                          font: size 20px;
+                                                                                                                                                                          background-color: rgb(12, 12, 12);
+                                                                                                                                                                          max-width: 300px;
+                                                                                                                                                                          position: fixed;
+                                                                                                                                                                          margin-right: 0;
+                                                                                                                                                                          text-align: center;
+                                                                                                                                                                      }
+                                                                                                                                                                      #announcement {
+                                                                                                                                                                          margin-top: 12px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .navbar-mobile>ul {
+                                                                                                                                                                          list-style-type: none;
+                                                                                                                                                                          width: 300px;
+                                                                                                                                                                          justify-content: space-evenly;
+                                                                                                                                                                          padding-left: 0px;
+                                                                                                                                                                      }
+                                                                                                                                                                      #iPhone12 {
+                                                                                                                                                                          padding-left: 80px;
+                                                                                                                                                                          padding-right: 80px;
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                          font-size: 12px;
+                                                                                                                                                                      }
+                                                                                                                                                                      #iPhone12 a {
+                                                                                                                                                                          font: size 12px;
+                                                                                                                                                                      }
+                                                                                                                                                                      #iPhone12>h1 {
+                                                                                                                                                                          color: black;
+                                                                                                                                                                          margin: 0;
+                                                                                                                                                                          border: 0;
+                                                                                                                                                                          padding-bottom: 0;
+                                                                                                                                                                          font: size 30px;
+                                                                                                                                                                      }
+                                                                                                                                                                      article img {
+                                                                                                                                                                          max-width: 250px;
+                                                                                                                                                                          max-height: fit-content;
+                                                                                                                                                                          padding-left: 0;
+                                                                                                                                                                          padding-right: 0;
+                                                                                                                                                                      }
+                                                                                                                                                                      #iPhone12>h2 {
+                                                                                                                                                                          color: black;
+                                                                                                                                                                          font-size: 20px;
+                                                                                                                                                                          font-weight: normal;
+                                                                                                                                                                          padding-top: 0;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPhone-12Pro {
+                                                                                                                                                                          padding-left: 80px;
+                                                                                                                                                                          padding-right: 80px;
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                          border-right: 0;
+                                                                                                                                                                          background-color: black;
+                                                                                                                                                                          font-size: 12px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPhone-12Pro>h1 {
+                                                                                                                                                                          color: white;
+                                                                                                                                                                          margin: 0;
+                                                                                                                                                                          border: 0;
+                                                                                                                                                                          padding-bottom: 0;
+                                                                                                                                                                          font-size: 30px;
+                                                                                                                                                                          padding-left: 0;
+                                                                                                                                                                          padding-right: 0;
+                                                                                                                                                                          font-size: 20px;
+                                                                                                                                                                          width: 100%;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPhone-12Pro>h2 {
+                                                                                                                                                                          color: white;
+                                                                                                                                                                          margin: 0;
+                                                                                                                                                                          border: 0;
+                                                                                                                                                                          padding-bottom: 0;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPad-Pro {
+                                                                                                                                                                          padding-left: 80px;
+                                                                                                                                                                          padding-right: 80px;
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                          background-color: black;
+                                                                                                                                                                          font-size: 12px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPad-Pro>h1 {
+                                                                                                                                                                          color: white;
+                                                                                                                                                                          margin: 5px;
+                                                                                                                                                                          border: 5px;
+                                                                                                                                                                          padding-bottom: 0;
+                                                                                                                                                                          font-size: 30px;
+                                                                                                                                                                      }
+                                                                                                                                                                      header>.pc-header {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      .ending-note {
+                                                                                                                                                                          font-size: 15px;
+                                                                                                                                                                          color: rgb(114, 114, 114);
+                                                                                                                                                                          padding-left: 25px;
+                                                                                                                                                                          padding-right: 25px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .list-flex {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      button {
+                                                                                                                                                                          width: 100%;
+                                                                                                                                                                      }
+                                                                                                                                                                      .pc-footer {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      hr {
+                                                                                                                                                                          width: 300px;
+                                                                                                                                                                      }
+                                                                                                                                                                      #nav {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      #nav-mobile {
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer {
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                          font-size: 13px;
+                                                                                                                                                                          padding-left: 10px;
+                                                                                                                                                                          padding-right: 10px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer ul {
+                                                                                                                                                                          list-style: none;
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          text-align: left;
+                                                                                                                                                                          width: 250px
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer a {
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                      }
+                                                                                                                                                                      .more-ways a {
+                                                                                                                                                                          color: blue;
+                                                                                                                                                                      }
+                                                                                                                                                                      .united-states a {
+                                                                                                                                                                          color: black;
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer-list1 ul {
+                                                                                                                                                                          color: black;
+                                                                                                                                                                          list-style-type: none;
+                                                                                                                                                                      }
+                                                                                                                                                                  }
+                                                                                                                                                                  /* TABLET SCREEN */
+                                                                                                                                                                  
+                                                                                                                                                                  @media (max-width: 750px) and (min-width: 401px) {
+                                                                                                                                                                      body {
+                                                                                                                                                                          min-height: 700px;
+                                                                                                                                                                          max-width: 100%;
+                                                                                                                                                                          overflow-x: hidden;
+                                                                                                                                                                      }
+                                                                                                                                                                      .list-flex {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      .pc-footer {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      img {
+                                                                                                                                                                          max-width: 720px;
+                                                                                                                                                                          max-height: fit-content;
+                                                                                                                                                                      }
+                                                                                                                                                                      article {
+                                                                                                                                                                          text-align: center;
+                                                                                                                                                                          padding-left: 10px;
+                                                                                                                                                                          padding-right: 10px;
+                                                                                                                                                                          text-align: center;
+                                                                                                                                                                          background-color: black;
+                                                                                                                                                                      }
+                                                                                                                                                                      .navbar-mobile {
+                                                                                                                                                                          font: size 20px;
+                                                                                                                                                                          background-color: rgb(12, 12, 12);
+                                                                                                                                                                          width: 750px;
+                                                                                                                                                                          position: fixed;
+                                                                                                                                                                          margin-right: 0;
+                                                                                                                                                                          text-align: center;
+                                                                                                                                                                      }
+                                                                                                                                                                      #announcement {
+                                                                                                                                                                          margin-top: 12px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .navbar-mobile>ul {
+                                                                                                                                                                          list-style-type: none;
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          justify-content: space-between;
+                                                                                                                                                                          width: 700px;
+                                                                                                                                                                      }
+                                                                                                                                                                      #iPhone12 {
+                                                                                                                                                                          padding-left: 80px;
+                                                                                                                                                                          padding-right: 80px;
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                      }
+                                                                                                                                                                      #iPhone12>h1 {
+                                                                                                                                                                          color: black;
+                                                                                                                                                                          margin: 0;
+                                                                                                                                                                          border: 0;
+                                                                                                                                                                          padding-bottom: 0;
+                                                                                                                                                                          font: size 30px;
+                                                                                                                                                                      }
+                                                                                                                                                                      article img {
+                                                                                                                                                                          max-width: 350px;
+                                                                                                                                                                          max-height: fit-content;
+                                                                                                                                                                      }
+                                                                                                                                                                      #iPhone12>h2 {
+                                                                                                                                                                          color: black;
+                                                                                                                                                                          font-size: 20px;
+                                                                                                                                                                          font-weight: normal;
+                                                                                                                                                                          padding-top: 0;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPhone-12Pro {
+                                                                                                                                                                          padding-left: 80px;
+                                                                                                                                                                          padding-right: 80px;
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                          border-right: 0;
+                                                                                                                                                                          border-left: 0;
+                                                                                                                                                                          background-color: black;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPhone-12Pro>h1 {
+                                                                                                                                                                          color: white;
+                                                                                                                                                                          margin: 0;
+                                                                                                                                                                          border: 0;
+                                                                                                                                                                          padding-bottom: 0;
+                                                                                                                                                                          font-size: 30px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPhone-12Pro>h2 {
+                                                                                                                                                                          color: white;
+                                                                                                                                                                          margin: 0;
+                                                                                                                                                                          border: 0;
+                                                                                                                                                                          padding-bottom: 0;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPad-Pro {
+                                                                                                                                                                          padding-left: 80px;
+                                                                                                                                                                          padding-right: 80px;
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                          background-color: black;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPad-Pro>h1 {
+                                                                                                                                                                          color: white;
+                                                                                                                                                                          margin: 5px;
+                                                                                                                                                                          border: 5px;
+                                                                                                                                                                          padding-bottom: 0;
+                                                                                                                                                                          font-size: 30px;
+                                                                                                                                                                      }
+                                                                                                                                                                      header>.pc-header {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      .ending-note {
+                                                                                                                                                                          font-size: 15px;
+                                                                                                                                                                          color: rgb(114, 114, 114);
+                                                                                                                                                                          padding-left: 25px;
+                                                                                                                                                                          padding-right: 25px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .list-flex {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      button {
+                                                                                                                                                                          width: 100%;
+                                                                                                                                                                      }
+                                                                                                                                                                      .pc-footer {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      hr {
+                                                                                                                                                                          width: 300px;
+                                                                                                                                                                      }
+                                                                                                                                                                      #nav {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      #nav-mobile {
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer a {
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer ul {
+                                                                                                                                                                          list-style: none;
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          text-align: left;
+                                                                                                                                                                          max-width: 600px
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer {
+                                                                                                                                                                          padding-left: 25px;
+                                                                                                                                                                          font-size: 14px;
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer ul {
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                      }
+                                                                                                                                                                      .more-ways a {
+                                                                                                                                                                          color: blue;
+                                                                                                                                                                      }
+                                                                                                                                                                      .united-states a {
+                                                                                                                                                                          color: rgb(70, 70, 70);
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer-list1 ul {
+                                                                                                                                                                          color: black;
+                                                                                                                                                                          list-style-type: none;
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          justify-content: space-between;
+                                                                                                                                                                      }
+                                                                                                                                                                      .v-line {
+                                                                                                                                                                          font-size: 20px;
+                                                                                                                                                                      }
+                                                                                                                                                                  }
+                                                                                                                                                                  /* PC Screen or larger*/
+                                                                                                                                                                  
+                                                                                                                                                                  @media (min-width: 751px) {
+                                                                                                                                                                      body {
+                                                                                                                                                                          min-height: 796px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .flex-1 {
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          justify-content: space-around;
+                                                                                                                                                                          font-size: 15px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .flex-2 {
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          justify-content: space-around;
+                                                                                                                                                                          font-size: 15px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .flex-3 {
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          justify-content: space-around;
+                                                                                                                                                                          font-size: 15px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .ending-note {
+                                                                                                                                                                          font-size: 15px;
+                                                                                                                                                                          color: rgb(114, 114, 114);
+                                                                                                                                                                          padding-left: 170px;
+                                                                                                                                                                          padding-right: 140px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .list-flex {
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          font-size: 12px;
+                                                                                                                                                                          line-height: 1.8;
+                                                                                                                                                                          margin: 0;
+                                                                                                                                                                          border: 0;
+                                                                                                                                                                          padding-left: 100px;
+                                                                                                                                                                          padding-right: 250px;
+                                                                                                                                                                          font-size: 13px;
+                                                                                                                                                                          justify-content: space-around;
+                                                                                                                                                                      }
+                                                                                                                                                                      header>div>ul {
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          justify-content: space-around;
+                                                                                                                                                                          background-color: black;
+                                                                                                                                                                          opacity: 0.94;
+                                                                                                                                                                          color: white;
+                                                                                                                                                                          padding: 13px;
+                                                                                                                                                                          list-style: none;
+                                                                                                                                                                          border: 0;
+                                                                                                                                                                          margin: 0;
+                                                                                                                                                                          text-align: center;
+                                                                                                                                                                      }
+                                                                                                                                                                      .footer-upper-content {
+                                                                                                                                                                          width: 100;
+                                                                                                                                                                          padding-left: 90px;
+                                                                                                                                                                          color: rgb(114, 114, 114);
+                                                                                                                                                                      }
+                                                                                                                                                                      footer>div>div>ul.footer-flex {
+                                                                                                                                                                          display: flex;
+                                                                                                                                                                          list-style: none;
+                                                                                                                                                                          padding-left: 75px;
+                                                                                                                                                                          justify-content: space-around;
+                                                                                                                                                                          padding-right: 200px;
+                                                                                                                                                                          color: rgb(114, 114, 114);
+                                                                                                                                                                          text-decoration: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      footer a:link {
+                                                                                                                                                                          text-decoration: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      footer>div>a {
+                                                                                                                                                                          text-decoration: none;
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                      }
+                                                                                                                                                                      footer>div {
+                                                                                                                                                                          padding-left: 60px;
+                                                                                                                                                                          padding-right: 140px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .mobile-footer {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      .navbar-mobile {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      .navbar {
+                                                                                                                                                                          border-top: 0;
+                                                                                                                                                                          padding-top: 0;
+                                                                                                                                                                          margin-top: 0;
+                                                                                                                                                                          position: fixed;
+                                                                                                                                                                          width: 100%;
+                                                                                                                                                                          top: 0;
+                                                                                                                                                                          left: 0;
+                                                                                                                                                                          padding-left: 100px;
+                                                                                                                                                                          padding-right: 100px;
+                                                                                                                                                                      }
+                                                                                                                                                                      header>div {
+                                                                                                                                                                          background-color: black;
+                                                                                                                                                                          opacity: 0.93;
+                                                                                                                                                                      }
+                                                                                                                                                                      header>.mobile-header {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      #announcement {
+                                                                                                                                                                          margin-top: 12px;
+                                                                                                                                                                          padding: 12px;
+                                                                                                                                                                          text-align: center;
+                                                                                                                                                                          color: rgb(44, 43, 43);
+                                                                                                                                                                          background-color: rgb(241, 241, 241);
+                                                                                                                                                                          width: 100%;
+                                                                                                                                                                      }
+                                                                                                                                                                      .footer-flex>li>a {
+                                                                                                                                                                          color: rgb(51, 51, 51);
+                                                                                                                                                                      }
+                                                                                                                                                                      title {
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                      }
+                                                                                                                                                                      .navbar-mobile {
+                                                                                                                                                                          display: none;
+                                                                                                                                                                      }
+                                                                                                                                                                      .iPad-Pro>h1 {
+                                                                                                                                                                          margin: 8px;
+                                                                                                                                                                          border: 5px;
+                                                                                                                                                                      }
+                                                                                                                                                                      .grey-out {
+                                                                                                                                                                          color: grey;
+                                                                                                                                                                      }
+                                                                                                                                                                  }

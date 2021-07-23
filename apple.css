@@ -1,0 +1,151 @@
+div {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 0;
+    border: 0;
+}
+
+.active {
+    color: rgb(175, 175, 175);
+    font-size: 20px;
+}
+
+.apple-card>.active {
+    color: black;
+    font-size: 30px;
+}
+
+#announcement {
+    padding: 12px;
+    text-align: center;
+    color: rgb(44, 43, 43);
+    background-color: rgb(241, 241, 241);
+    width: 100%;
+}
+
+#iPhone12 {
+    text-align: center;
+    margin: 0;
+}
+
+#iPhone12 {
+    text-align: center;
+    margin: 0;
+}
+
+#iPhone12 a {
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(57, 57, 233)
+}
+
+#learn {
+    font-size: 20px
+}
+
+#buy {
+    font-size: 20px
+}
+
+img {
+    font-size: 15px;
+}
+
+.iPhone-12Pro {
+    color: white;
+    background-color: black;
+    text-align: center;
+    bottom: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.iPad-Pro {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+aside {
+    text-align: center;
+}
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+}
+
+aside h1 {
+    font-size: 35px;
+}
+
+br {
+    block-size: 10px;
+}
+
+article h1 {
+    font-size: 35px;
+    padding-top: 0;
+    font-weight: normal;
+}
+
+article h2 {
+    font-size: 20px;
+    padding-top: 0;
+    font-weight: normal;
+}
+
+aside .One-P {
+    font-size: 20px;
+}
+
+aside style {
+    background-size: 50% 50%;
+}
+
+.flex-1 {
+    width: 100%;
+    height: 100%;
+}
+
+.flex-2 {
+    width: 100%;
+    height: 100%;
+}
+
+.Back-to-Class {
+    background-image: url();
+    background-size: 800px;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+hr {
+    width: 1100px;
+    color: rgb(126, 126, 126);
+    text-align: center;
+}
+
+.list-flex ul {
+    list-style: none;
+}
+
+.cart {
+    color: grey;
+}
+
+footer>div>a {
+    text-decoration: none;
+    color: grey;
+}
